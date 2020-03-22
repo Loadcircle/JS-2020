@@ -1,0 +1,34 @@
+[
+    {
+        "id": 1,
+        "nombre": "Jesus",
+        "apellido": "Milano",
+        "edad": 25,
+        "correo": "jesusmilano96@gmail.com",
+        "telefono": 936633960
+    },
+    {
+        "id": 2,
+        "nombre": "Jesus",
+        "apellido": "Milano",
+        "edad": 25,
+        "correo": "jesusmilano96@gmail.com",
+        "telefono": 936633960
+    },
+    {
+        "id": 3,
+        "nombre": "Jesus",
+        "apellido": "Milano",
+        "edad": 25,
+        "correo": "jesusmilano96@gmail.com",
+        "telefono": 936633960
+    },
+    {
+        "id": 4,
+        "nombre": "Jesus",
+        "apellido": "Milano",
+        "edad": 25,
+        "correo": "jesusmilano96@gmail.com",
+        "telefono": 936633960
+    }
+]
