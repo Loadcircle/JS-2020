@@ -196,3 +196,7 @@ elemento.remove();
 padre.removeChild(elemento);
 
 elemento.hasAttribute('attr');
+
+
+//convierte el objeto a un arreglo
+console.log( Object.entries(monedas.Data) )
