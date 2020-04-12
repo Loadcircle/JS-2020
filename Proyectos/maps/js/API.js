@@ -4,7 +4,7 @@ class Api{
     }
 
     async obtenerDatos(){
-        const total = 11000;
+        const total = 1000;
 
         const datos = await fetch(this.url+`?pageSize=${total}`);
 
