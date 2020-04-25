@@ -1,0 +1,9 @@
+$primario: red;
+$secundario: blue;
+
+body{
+    background-color: $primario;
+}
+h1{
+    color: $secundario;
+}
